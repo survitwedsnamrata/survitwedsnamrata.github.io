@@ -1961,18 +1961,6 @@ ul.aglieits-nav li a:hover{
 	.banner_agile-info {
 		padding-top: 12em;
 	}
-  .agileinfo_bottom_section {
-    background: url(../images/11.jpg)no-repeat -937px 300px;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-attachment: fixed;
-    padding-top: 9em;
-    min-height: 450px;
-    text-align: center;
-    position: relative;
-  }
 
 }
 @media (max-width:1080px){
