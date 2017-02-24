@@ -1961,6 +1961,19 @@ ul.aglieits-nav li a:hover{
 	.banner_agile-info {
 		padding-top: 12em;
 	}
+  .agileinfo_bottom_section {
+    background: url(../images/11.jpg)no-repeat -937px 300px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    padding-top: 9em;
+    min-height: 450px;
+    text-align: center;
+    position: relative;
+  }
+
 }
 @media (max-width:1080px){
 	.w3ls_banner_section {
@@ -2051,6 +2064,17 @@ ul.aglieits-nav li a:hover{
 		padding: 8px 15px;
 		width: 50%;
 	}
+  .agileinfo_counter_section {
+    background: url(../images/counter.jpg)no-repeat -520px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    padding-top: 7em;
+    min-height: 400px;
+    text-align: center;
+  }
 }
 @media (max-width:1054px){
 	
@@ -2211,6 +2235,43 @@ ul.aglieits-nav li a:hover{
 		padding-left: 0;
 		padding: 0;
 	}
+      .w3ls_banner_section.second {
+    background: url(../images/inner_bg.jpg) no-repeat -164px -94px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 260px;
+    position: relative;
+    text-align: center;
+    background-size: 185%;
+  }
+  .agileinfo_counter_section {
+    background: url(../images/counter.jpg)no-repeat -832px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    padding-top: 7em;
+    min-height: 400px;
+    text-align: center;
+  }
+  .agileinfo_bottom_section {
+    background: url(../images/11.jpg)no-repeat 75% 610px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    padding-top: 9em;
+    min-height: 450px;
+    text-align: center;
+    position: relative;
+}
+
+
 }
 @media (max-width:800px){
 		.banner_agile-info h3 {
@@ -2423,6 +2484,53 @@ ul.aglieits-nav li a:hover{
 		width: 33%;
 		padding: 0px 3px;
 	}
+    .w3ls_banner_section.second {
+    background: url(../images/inner_bg.jpg) no-repeat -164px -94px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 260px;
+    position: relative;
+    text-align: center;
+    background-size: 185%;
+  }
+  .agileinfo_counter_section {
+    background: url(../images/counter.jpg)no-repeat -500px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    padding-top: 7em;
+    min-height: 400px;
+    text-align: center;
+  }
+/*  .agileinfo_bottom_section {
+    background: url(../images/11.jpg)no-repeat -320px 121px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    padding-top: 9em;
+    min-height: 450px;
+    text-align: center;
+    position: relative;
+  }*/
+  .agileinfo_bottom_section {
+    background: url(../images/11.jpg)no-repeat 75% 610px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    padding-top: 9em;
+    min-height: 450px;
+    text-align: center;
+    position: relative;
+}
 }
 @media (max-width: 600px){
 	.date {
@@ -2469,6 +2577,53 @@ ul.aglieits-nav li a:hover{
 		padding-left: 0;
 		padding: 0;
 	}
+    .w3ls_banner_section.second {
+    background: url(../images/inner_bg.jpg) no-repeat -164px -94px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 260px;
+    position: relative;
+    text-align: center;
+    background-size: 185%;
+  }
+  .agileinfo_counter_section {
+    background: url(../images/counter.jpg)no-repeat -500px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    padding-top: 7em;
+    min-height: 400px;
+    text-align: center;
+  }
+/*  .agileinfo_bottom_section {
+    background: url(../images/11.jpg)no-repeat -320px 121px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    padding-top: 9em;
+    min-height: 450px;
+    text-align: center;
+    position: relative;
+  }*/
+  .agileinfo_bottom_section {
+    background: url(../images/11.jpg)no-repeat 75% 610px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    padding-top: 9em;
+    min-height: 450px;
+    text-align: center;
+    position: relative;
+}
 }
 @media (max-width: 568px){
 	.about_section, .wthree-news, .w3l_inner_section, .agile-footer {
@@ -2712,7 +2867,7 @@ ul.aglieits-nav li a:hover{
     min-height: 400px;
     text-align: center;
   }
-  .agileinfo_bottom_section {
+/*  .agileinfo_bottom_section {
     background: url(../images/11.jpg)no-repeat -320px 121px;
     background-size: cover;
     -webkit-background-size: cover;
@@ -2723,7 +2878,20 @@ ul.aglieits-nav li a:hover{
     min-height: 450px;
     text-align: center;
     position: relative;
-  }
+  }*/
+  .agileinfo_bottom_section {
+    background: url(../images/11.jpg)no-repeat 75% 610px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    padding-top: 9em;
+    min-height: 450px;
+    text-align: center;
+    position: relative;
+}
+
 }
 @media (max-width: 384px){
 	.w3ls_banner_section.second {
@@ -2804,6 +2972,53 @@ ul.aglieits-nav li a:hover{
 		top: 57%;
 		left: 50%;
 	}
+    .w3ls_banner_section.second {
+    background: url(../images/inner_bg.jpg) no-repeat -164px -94px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 260px;
+    position: relative;
+    text-align: center;
+    background-size: 185%;
+  }
+  .agileinfo_counter_section {
+    background: url(../images/counter.jpg)no-repeat -500px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    padding-top: 7em;
+    min-height: 400px;
+    text-align: center;
+  }
+/*  .agileinfo_bottom_section {
+    background: url(../images/11.jpg)no-repeat -320px 121px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    padding-top: 9em;
+    min-height: 450px;
+    text-align: center;
+    position: relative;
+  }*/
+  .agileinfo_bottom_section {
+    background: url(../images/11.jpg)no-repeat 75% 610px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    padding-top: 9em;
+    min-height: 450px;
+    text-align: center;
+    position: relative;
+}
 }
 @media (max-width:375px){
 	 .banner-mid-wthree img {
@@ -2869,6 +3084,53 @@ ul.aglieits-nav li a:hover{
 		padding: .2em .6em .3em;
 		font-size: 60%;
 	}
+    .w3ls_banner_section.second {
+    background: url(../images/inner_bg.jpg) no-repeat -164px -94px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 260px;
+    position: relative;
+    text-align: center;
+    background-size: 185%;
+  }
+  .agileinfo_counter_section {
+    background: url(../images/counter.jpg)no-repeat -500px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    padding-top: 7em;
+    min-height: 400px;
+    text-align: center;
+  }
+/*  .agileinfo_bottom_section {
+    background: url(../images/11.jpg)no-repeat -320px 121px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    padding-top: 9em;
+    min-height: 450px;
+    text-align: center;
+    position: relative;
+  }*/
+  .agileinfo_bottom_section {
+    background: url(../images/11.jpg)no-repeat 75% 610px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    padding-top: 9em;
+    min-height: 450px;
+    text-align: center;
+    position: relative;
+}
 }
 @media (max-width:320px){
 	.wthree_title_agile p {
@@ -2934,5 +3196,52 @@ ul.aglieits-nav li a:hover{
 		padding: 8px 0px;
 		margin: 8px 0;
 	}
+    .w3ls_banner_section.second {
+    background: url(../images/inner_bg.jpg) no-repeat -164px -94px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 260px;
+    position: relative;
+    text-align: center;
+    background-size: 185%;
+  }
+  .agileinfo_counter_section {
+    background: url(../images/counter.jpg)no-repeat -500px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    padding-top: 7em;
+    min-height: 400px;
+    text-align: center;
+  }
+/*  .agileinfo_bottom_section {
+    background: url(../images/11.jpg)no-repeat -320px 121px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    padding-top: 9em;
+    min-height: 450px;
+    text-align: center;
+    position: relative;
+  }*/
+  .agileinfo_bottom_section {
+    background: url(../images/11.jpg)no-repeat 75% 610px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    padding-top: 9em;
+    min-height: 450px;
+    text-align: center;
+    position: relative;
+}
 	
 }
