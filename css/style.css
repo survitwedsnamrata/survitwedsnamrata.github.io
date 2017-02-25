@@ -2223,7 +2223,7 @@ ul.aglieits-nav li a:hover{
 		padding-left: 0;
 		padding: 0;
 	}
-      .w3ls_banner_section.second {
+  .w3ls_banner_section.second {
     background: url(../images/inner_bg.jpg) no-repeat -164px -94px;
     background-size: cover;
     -webkit-background-size: cover;
@@ -2234,17 +2234,6 @@ ul.aglieits-nav li a:hover{
     position: relative;
     text-align: center;
     background-size: 185%;
-  }
-  .agileinfo_counter_section {
-    background: url(../images/counter.jpg)no-repeat -832px 0px;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-attachment: fixed;
-    padding-top: 7em;
-    min-height: 400px;
-    text-align: center;
   }
   .agileinfo_bottom_section {
     background: url(../images/11.jpg)no-repeat 75% 610px;
@@ -2845,7 +2834,7 @@ ul.aglieits-nav li a:hover{
     background-size: 185%;
   }
   .agileinfo_counter_section {
-    background: url(../images/counter.jpg)no-repeat -500px 0px;
+    background: url(../images/counter.jpg)no-repeat -70px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -2868,7 +2857,7 @@ ul.aglieits-nav li a:hover{
     position: relative;
   }*/
   .agileinfo_bottom_section {
-    background: url(../images/11.jpg)no-repeat 75% 610px;
+    background: url(../images/11.jpg)no-repeat -70px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
