@@ -1,1 +1,0 @@
-# survitwedsnamrata.github.io
