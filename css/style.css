@@ -72,7 +72,6 @@ header {
     background: #fc3158;
 }
 .logo-img {
-    position: absolute;
     top: -5px;
     right: 24px;
 }
@@ -2749,7 +2748,6 @@ ul.aglieits-nav li a:hover{
     font-size: 0.9em;
   }
   .logo-img {
-    position: absolute;
     top: -5px;
     right:17px;
   }
@@ -2833,6 +2831,16 @@ ul.aglieits-nav li a:hover{
     display: inline;
     padding: .2em .6em .3em;
     font-size: 60%;
+  }
+  .agileinfo_counter_section {
+    background: url(../images/counter.jpg)no-repeat -330px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    padding-top:7em;
+    min-height: 400px; text-align: center;
   }
 }
 @media (max-width:320px){
