@@ -401,6 +401,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				});
 			</script>
 			<!-- start-smoth-scrolling -->
+			<script type="text/javascript">
+				$('body').scroll(function(){
+				  $(".agileinfo_bottom_section").css({"background-position":"center " +($('body').scrollTop()*0.65) + "px"});
+				});
+			</script>
 	<!-- //here ends scrolling icon -->	
 </body>
 </html>
