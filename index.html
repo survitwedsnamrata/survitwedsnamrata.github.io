@@ -126,7 +126,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 										</div>
 										<!-- end normal -->
 										  <h4>Groom</h4>
-										  <p>let's talk from the starting, firstly he was a shy and sweet kind of person. He is still very sweet to me. But now he can scream I LOVE YOU down the halls not caring who heard him. He could go on a walk with me without even caring about the temperature. He finds the best golgappa in town for me. He can sing a song for me even if I call him retarded. He doesn't care about what I am wearing but still calls me beautiful. He will never get of jealous because he already knows I love him more than anything and when he says forever, he means it no matter what. He has been there for me. He makes me feel wanted and love. He knows how to handle me. He is the finest, loveliest, tenderest and most beautiful person, I have ever known and even that is an understatement. <span style="font-family: 'Cookie', cursive;font-size: 2em;">- Namrata</span> </p>
+										  <p>let's talk from the starting, firstly he was a shy and sweet kind of person. He is still very sweet to me. But now he can scream I LOVE YOU down the halls not caring who heard him. He could go on a walk with me without even caring about the temperature. He finds the best golgappa in town for me. He can sing a song for me even if I call him retarded. He doesn't care about what I am wearing but still calls me beautiful. He will never gets jealous of me because he already knows I love him more than anything and when he says forever, he means it no matter what. He has been there for me. He makes me feel wanted and love. He knows how to handle me. He is the finest, loveliest, tenderest and most beautiful person, I have ever known and even that is an understatement. <span style="font-family: 'Cookie', cursive;font-size: 2em;">- Namrata</span> </p>
 									</div>
 									<div class="col-md-6 team-grid">
 										<!-- normal -->
@@ -139,7 +139,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 										</div>
 										<!-- end normal -->
 										 <h4>Bride</h4>
-										  <p>she's the girl that has a few best friends and doesn't need anyone, the girl that laughs the hardest at her own jokes. She has the most amazing smile. She doesn't even care what anyone thinks about her and she is nice to everyone. She is the girl that will hang up on you, but then call you right back and say sorry. She is that kind of girl who will put all her trust in you until you give her reasons not to. She is the girl who will never leave your side when you need her, the girl who will go out of the way to cheer you up. She is the girl who says she isn't ticklish, but really is. She believes in loving somebody forever. Shopping is her favourite past time. She talks about bags with stars in her eyes. If you ask her about her dream you will hear exquisite things. She is the princess of surana family and soon going to be the queen of survit Bardia's life. She is the best a man can get sorry she is the best that a family can get. And I am that super lucky person. <span style="font-family: 'Cookie', cursive;font-size: 2em;">- Survit</span> </p>
+										  <p>she's the girl who has few best friends and doesn't need anyone, the girl who laughs the hardest at her own jokes. She has the most amazing smile, She is the girl that will hang up on you, but then call you right back and say sorry. She is that kind of girl who will put all her trust in you until you give her reasons not to. She is the girl who will never leave your side when you need her, the girl who will go out of the way to cheer you up. She believes in loving somebody forever. She is the princess of surana family and soon going to be the queen of survit Bardia's life. She is the best a man can get sorry she is the best that a family can get. <span style="font-family: 'Cookie', cursive;font-size: 2em;">- Survit</span> </p>
 									</div>
 									<div class="clearfix"></div>
 						</div>
@@ -150,7 +150,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<!--//story-->
 			
 	<!--/counter-->
-<div class="agileinfo_counter_section">
+<div class="agileinfo_counter_section parallax-window" data-parallax="scroll" data-image-src="images/counter.jpg">
   <div class="wthree_title_agile">
 						        <h3 class="h-t">Wedding <span>Coming Soon</span></h3>
 								<p><i class="fa fa-heart-o" aria-hidden="true"></i></p>
@@ -266,7 +266,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		</div>
 			<!-- //Events-->
 <!--/bottom-->
-<div class="agileinfo_bottom_section">
+<div class="agileinfo_bottom_section" data-parallax="scroll" data-image-src="images/11.jpg">
 
 <div class="snow-container two">
 			  <div class="snow foreground"></div>
@@ -401,6 +401,22 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				});
 			</script>
 			<!-- start-smoth-scrolling -->
+			<script type="text/javascript" src="js/parallax.js"></script>
+			<script type="text/javascript">
+				$('.parallax-window').parallax({imageSrc: 'images/counter.jpg'});
+				$('.agileinfo_bottom_section')..parallax({imageSrc: 'images/11.jpg'})
+			</script>
+			<script type="text/javascript">
+				var ismobile = /Android|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)
+				if (ismobile){
+				 // bypass parallax effect
+				}
+
+				var isiOS = /iPhone|iPad|iPod/i.test(navigator.userAgent)
+				if (isiOS){
+				 // bypass parallax effect
+				}
+			</script>
 	<!-- //here ends scrolling icon -->	
 </body>
 </html>

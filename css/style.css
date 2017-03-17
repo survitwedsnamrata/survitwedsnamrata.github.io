@@ -697,7 +697,7 @@ h3.h-t {
 }
 /*-- //about --*/
 /*-- /counter-agile --*/
-.agileinfo_counter_section {
+/*.agileinfo_counter_section {
     background: url(../images/counter.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
@@ -706,7 +706,7 @@ h3.h-t {
     background-attachment: fixed;
     padding-top:7em;
     min-height: 400px; text-align: center;
-}
+}*/
 .wthree-counter-agile {
     width:60%;
      
@@ -2842,7 +2842,7 @@ ul.aglieits-nav li a:hover{
     padding-top:7em;
     min-height: 400px; text-align: center;
   }
-  .agileinfo_bottom_section {
+/*  .agileinfo_bottom_section {
     background: url(../images/11.jpg)no-repeat -330px 0px;
     background-size: cover;
     -webkit-background-size: cover;
@@ -2853,7 +2853,7 @@ ul.aglieits-nav li a:hover{
     min-height: 450px;
     text-align: center;
     position: relative;
-  }
+  }*/
 }
 @media (max-width:320px){
   .wthree_title_agile p {
