@@ -430,7 +430,7 @@ ul.nav.navbar-nav li a:hover {
     background: #147efb;
 }
 /*--agileinfo-bottom-section --*/
-.agileinfo_bottom_section {
+/*.agileinfo_bottom_section {
     background: url(../images/11.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
@@ -440,7 +440,7 @@ ul.nav.navbar-nav li a:hover {
     padding-top:9em;
     min-height: 450px; text-align: center;
   position:relative;
-}
+}*/
 .agileinfo_bottom_section h3 {
     font-size: 4em;
     text-align: center;
